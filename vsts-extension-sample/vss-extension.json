@@ -5,8 +5,8 @@
   "name": "Sample Extension",
   "scopes": [ "vso.work", "vso.work_write" ],
   "description": "This is the extension file from the contributions guide example on GitHub.  Feel free to add or remove sections as you see fit.",
-  "baseUri": "https://localhost",
-  "publisher": "fabrikam",
+  "baseUri": "https://localhost:44300/",
+  "publisher": "lean-soft",
   "public": false,
   "icons": {
     "default": "img/logo.png"

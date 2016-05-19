@@ -1,11 +1,11 @@
 ﻿{
-  "serviceUrl": "https://your.visualstudio.com.account",
+  "serviceUrl": "https://almnetworks.visualstudio.com",
   "package": {
     "manifestGlobs": [ "vss-extension.json" ]
   },
   "publish": {
     "galleryUrl": "https://marketplace.visualstudio.com/",
-    "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "shareWith": "youraccount"
+    "token": "*****************************",
+    "shareWith": "almnetworks.visualstudio.com"
   }
 }
